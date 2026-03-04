@@ -47,7 +47,7 @@ git clone https://github.com/codewithsadee/smith-portfolio.git
 
 ### Contact
 
-If you want to contact with me you can reach me at
+If you w
 
 ### License
 
