@@ -44,11 +44,6 @@ Windows:
 ```bash
 git clone https://github.com/codewithsadee/smith-portfolio.git
 ```
-
-### Contact
-
-If you w
-
 ### License
 
 This project is **free to use** and does not contains any license.
